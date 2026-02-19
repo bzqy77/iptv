@@ -48,4 +48,3 @@ jobs:
             git commit -m "Github Action Auto Updated"
             git push --force
           fi
-          schedule- cron: '0 10 */4 * *'
